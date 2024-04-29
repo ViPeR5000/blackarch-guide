@@ -28,6 +28,7 @@ This will compile all guides listed as targets in the ```Makefile```.
 * es
 * fr 
 * it
+* pt
 * pt-br
 * ru
 * tr
